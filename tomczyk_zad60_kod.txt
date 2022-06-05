@@ -2,7 +2,7 @@
 
 <head>
     <title> zadanie 60 </title>
-    <LINK href="zadanie_60_skom.css" rel="stylesheet" 
+    <LINK href="tomczyk_zad60.css" rel="stylesheet" 
     type="text/CSS">
 
 </head>
