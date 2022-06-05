@@ -17,7 +17,7 @@ type="text/CSS">
 
 <!-- text-decoration:none usuwa wszelkie dekoracje, np podkreślenie linku -->
 <!-- text-decoration:underline dodaje podkreślenie pod danym elementem tekstu -->
-<!-- Matusz Tomczyk --> 
+<!-- Mateusz Tomczyk --> 
 
 </html>
 
