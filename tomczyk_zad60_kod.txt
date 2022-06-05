@@ -1,0 +1,40 @@
+<html>
+
+<head>
+    <title> zadanie 60 </title>
+    <LINK href="zadanie_60_skom.css" rel="stylesheet" 
+    type="text/CSS">
+
+</head>
+
+<body>
+
+<div id="blok1_tomczyk"> blok 1  </div>
+<br>
+<div id="blok2_tomczyk">  blok 2</div>
+<br>
+<div id="blok3_tomczyk"> blok 3 </div> 
+
+
+
+
+    <!-- hover; pseudoklasa która powoduje aktywowanie elementu po naruszeniu na niego kursorem, np zmiana koloru -->
+    <!-- Mateusz Tomczyk -->
+</body>
+
+</html>
+
+
+
+div#blok1_tomczyk { width: 621px; background-color: green; color: white;}
+div#blok2_tomczyk { width: 621px; background-color: green; color: white;}
+div#blok3_tomczyk { width: 621px; background-color: green; color: white;}
+
+div#blok1_tomczyk:hover { background-color: silver; font-size: 20mm;}
+div#blok2_tomczyk:hover { background-color: yellow; font-size: 20mm;}
+div#blok3_tomczyk:hover { background-color: turquoise; font-size: 20mm;}
+
+
+
+/* hover; pseudoklasa która powoduje aktywowanie elementu po naruszeniu na niego kursorem, np zmiana koloru
+Mateusz Tomczyk */
